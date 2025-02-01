@@ -1,7 +1,3 @@
-Here’s a `README.md` file based on your description and suggestions:
-
----
-
 # Random Forest Regression for Position Salaries
 
 This Colab notebook demonstrates how to build a **Random Forest Regression** model using Python and the **scikit-learn** library. The model is trained on a dataset of position salaries and is used to predict salaries for new positions. The notebook also includes visualizations to help understand the model's predictions.
